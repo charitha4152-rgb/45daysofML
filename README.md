@@ -6,5 +6,8 @@ https://nbviewer.org/github/charitha4152-rgb/45daysofML/blob/master/day_5_data_c
 
 https://nbviewer.org/github/charitha4152-rgb/45daysofML/blob/master/vis.ipynb -> this link refers to day7
 
+https://nbviewer.org/github/charitha4152-rgb/45daysofML/blob/master/sb.ipynb -> this link refers to day8
+
+
 
 
