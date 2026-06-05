@@ -18,6 +18,9 @@ GOAL:
 
   https://nbviewer.org/github/charitha4152-rgb/45daysofML/blob/master/example.sql  -> this link refers to day-9
 
+  https://nbviewer.org/github/charitha4152-rgb/45daysofML/blob/master/Eda_report.ipynb  -> this link refers to Day-10 Assignment/task 
+
+
 
 
 
